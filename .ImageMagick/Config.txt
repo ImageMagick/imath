@@ -1,0 +1,21 @@
+[STATIC_LIBRARY]
+
+[LICENSE]
+LICENSE.md
+
+[DEFINES]
+IMATH_EXPORTS
+
+[INCLUDES]
+.
+src\Imath
+
+[INCLUDE_ARTIFACTS]
+. -> .
+src\Imath -> .
+
+[EXCLUDES]
+src\Imath\toFloat.cpp
+src\ImathTest\
+src\python\
+website\

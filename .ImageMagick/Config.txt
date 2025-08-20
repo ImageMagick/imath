@@ -15,7 +15,9 @@ src\Imath
 src\Imath -> .
 
 [EXCLUDES]
+share\
 src\Imath\toFloat.cpp
 src\ImathTest\
+src\pybind11\
 src\python\
 website\

@@ -1,5 +1,23 @@
 [STATIC_LIBRARY]
 
+[VERSION]
+3.2.1
+
+[RELEASE_DATE]
+2025-08-15
+
+[PRODUCT_NAME]
+imath
+
+[COMPANY_NAME]
+Contributors to the OpenEXR Project
+
+[URL]
+https://github.com/AcademySoftwareFoundation/Imath
+
+[COPYRIGHT]
+Copyright (c) Contributors to the OpenEXR Project
+
 [LICENSE_FILE]
 LICENSE.md
 
